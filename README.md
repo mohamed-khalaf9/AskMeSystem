@@ -16,3 +16,10 @@ I have applied OOP concepts and MVC Pattern , As well as my focus to make the so
   - Delete question : the user can delete any question from its recieved questions by enter its ID and the system do athentication for the ID then the question will be deleted and if this question is a parent question so the all thread will be deleted .
   - Feed : this feature display all threads , answered questions and its answers in the system and provide information about the sender user and the receiver also(in case the questions are not anonymous ).
   - logout: the user can log out from his account and back for the start menu.
+
+## UML (Class Diagram)
+You can open the picture and zoom in to see all deatials of the diagram  :)
+
+![AskMeSystemClassDiagram](https://github.com/mohamed-khalaf9/AskMeSystem/assets/149758845/10eb2cb8-feb1-46ed-8b48-83866184b315)
+
+
