@@ -23,6 +23,5 @@ You can open the picture and zoom in to see all deatials of the diagram  :)
 ![AskMeSystemClassDiagram](https://github.com/mohamed-khalaf9/AskMeSystem/assets/149758845/10eb2cb8-feb1-46ed-8b48-83866184b315)
 
 # Demo:
-LinkedIn Post : 
-https://www.linkedin.com/posts/mohamed-khalafcs111_coding-objectorientedprogramming-softwaredevelopment-activity-7145463408954445825-KteJ?utm_source=share&utm_medium=member_android
+LinkedIn post : https://www.linkedin.com/posts/mohamed-khalafcs111_oop-softwareengineering-github-activity-7145499668800610304-_Bl5?utm_source=share&utm_medium=member_android
 
